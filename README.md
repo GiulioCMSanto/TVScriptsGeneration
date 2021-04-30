@@ -7,8 +7,11 @@ The project explores Recursive Neural Networks (RNNs).
 ### Files in this Repository
 
 dlnd_tv_script_generation.ipynb: a Jupyter Notebook with all the code
+
 dlnd_tv_script_generation.html: an html version of the Jupyter Notebook
+
 problem_unittests.py: tests provided by Udacity
+
 helper.py: help functions provided by Udacity
 
 ### Used Libraries
